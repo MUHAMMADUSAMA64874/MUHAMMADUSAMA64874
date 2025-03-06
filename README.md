@@ -1,8 +1,4 @@
-Here’s a professional and visually appealing GitHub README template tailored to your skills and experience. This template highlights your technical expertise, projects, and achievements in a structured and polished manner.
-
----
-
-# Hi, I'm [Your Name] 👋  
+# Hi, I'm MUHAMMAD USAMA 👋  
 **Computer Science Student | Full-Stack Developer | Game Developer**
 
 Welcome to my GitHub profile! I’m a passionate Computer Science student with over 4 years of experience in software development, web development, and game development. I specialize in building scalable web applications, customizing WordPress, and creating engaging games using Pygame.  
@@ -23,7 +19,7 @@ Here’s a quick overview of my technical expertise:
 - **MySQL** | **SQLite**  
 
 ### **Tools & Frameworks**  
-- **Git** | **GitHub** | **Tkinter** | **Pygame**  
+- **Git** | **GitHub** | **Tkinter** | **Pygame** | **Bootstrap**  
 
 ---
 
@@ -45,24 +41,21 @@ Here are some of the projects I’ve worked on:
 ### **1. Pygame-Based Games**  
 - **Description**: Developed interactive games using Python and Pygame, including platformers and puzzle games.  
 - **Technologies**: Python, Pygame  
-- **GitHub Link**: [Link to your project]  
 
 ### **2. WordPress Custom Theme**  
 - **Description**: Created a fully customizable WordPress theme tailored for e-commerce websites.  
-- **Technologies**: WordPress, PHP, CSS, JavaScript  
-- **GitHub Link**: [Link to your project]  
+- **Technologies**: WordPress, PHP, CSS, JavaScript   
 
 ### **3. Laravel Web Application**  
 - **Description**: Built a scalable web application for managing tasks and projects using Laravel.  
 - **Technologies**: Laravel, MySQL, Bootstrap  
-- **GitHub Link**: [Link to your project]  
 
 ---
 
 ## 📚 **Education**  
 - **Bachelor of Computer Science**  
-  [Your University Name]  
-  - Expected Graduation: [Year]  
+  KIET  
+  - Expected Graduation: 2026  
   - Relevant Coursework: Data Structures, Algorithms, Web Development, Database Management  
 
 ---
@@ -76,19 +69,19 @@ Here are some of the projects I’ve worked on:
 
 ## 📫 **Get in Touch**  
 Let’s connect and collaborate!  
-- **Email**: [Your Email Address]  
-- **LinkedIn**: [Your LinkedIn Profile]  
-- **Portfolio**: [Your Portfolio Website]  
+- **Email**: tahir12721@gmail.com  
+- **LinkedIn**: https://www.linkedin.com/in/muhammad-usama-5996bb24b/  
+- **Portfolio**: https://muhammadusama64874.github.io/Portfolio/
 
 ---
 
 ## 📊 **GitHub Stats**  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[YourGitHubUsername]&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MUHAMMADUSAMA64874&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADUSAMA64874&layout=compact&theme=radical)  
 
 ---
 
-### 🔧 **Tools I Use**  
+### 🔧 **Programming Languages**  
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
