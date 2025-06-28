@@ -115,7 +115,7 @@ Welcome to my GitHub profile! I'm a passionate Computer Science student with ove
 
 ## 🏆 Achievements
 
-- Successfully delivered 10+ WordPress projects with 100% client satisfaction
+- Successfully delivered 60+ WordPress projects with 100% client satisfaction
 - Developed a Pygame-based game featured in a local game development contest
 - Contributed to open-source projects on GitHub, improving code quality and functionality
 
