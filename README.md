@@ -1,47 +1,200 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Muhammad Usama</h1>
-<h3 align="center">Computer Science Student | Full-Stack Developer | Automation & Data Specialist</h3>
+# Hi 👋, I'm Muhammad Usama
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MUHAMMADUSAMA64874&label=Profile%20views&color=0e75b6&style=flat" alt="MUHAMMADUSAMA64874" /> </p>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00C2FF&center=true&vCenter=true&width=850&lines=Computer+Science+Student;Full-Stack+Developer;Automation+%26+Data+Specialist;Building+Scalable+and+Intelligent+Systems" alt="Typing introduction" />
+</a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=MUHAMMADUSAMA64874" alt="MUHAMMADUSAMA64874" /></a> </p>
-
-- 🔭 I’m currently working on **Scalable web applications, desktop software, and interactive games.**
-
-- 🌱 I’m currently learning **Intelligent, efficient systems using Python, n8n, Make.com, and Computer Vision libraries.**
-
-- 👯 I’m looking to collaborate on **Full-stack applications, Automation workflows, and Data Science projects.**
-
-- 🤝 I’m looking for help with **Advanced system architecture and large-scale data automation.**
-
-- 💬 Ask me about **WordPress, full-stack development (PHP, C#), Python-powered automation, n8n, Make.com, and Pandas.**
-
-- 📫 How to reach me **tahir12721@gmail.com**
-
-- ⚡ Fun fact **I use Pandas and computer vision libraries to turn complex information into actionable insights.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/muhammad-usama-5996bb24b" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="muhammad-usama-5996bb24b" /></a>
-<a href="https://youtube.com/@usamaking997" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="usamaking997" /></a>
-<a href="mailto:tahir12721@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" /></a>
+<p>
+  <a href="https://github.com/MUHAMMADUSAMA64874?tab=followers">
+    <img src="https://img.shields.io/github/followers/MUHAMMADUSAMA64874?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=MUHAMMADUSAMA64874&label=Profile%20Views&color=00A8E8&style=for-the-badge" alt="Profile views" />
+  <a href="mailto:tahir12721@gmail.com">
+    <img src="https://img.shields.io/badge/Open%20to-Collaboration-00A8E8?style=for-the-badge" alt="Open to collaboration" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white" alt="c"/> </a> <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=plastic&logo=csharp&logoColor=white" alt="csharp"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="css3"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white" alt="java"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="html5"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white" alt="php"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54" alt="python"/> </a> <a href="https://make.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Make.com-%23000000.svg?style=plastic&logo=make&logoColor=white" alt="make"/> </a> <a href="https://n8n.io" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/n8n-%23000000.svg?style=plastic&logo=n8n&logoColor=white" alt="n8n"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white" alt="aws"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=plastic&logo=firebase" alt="firebase"/> </a> <a href="https://www.netlify.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7" alt="netlify"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white" alt="gcp"/> </a> <a href="https://vercel.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white" alt="vercel"/> </a> <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white" alt="azure"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/.NET-5C2D91?style=plastic&logo=.net&logoColor=white" alt="dotnet"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white" alt="bootstrap"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/django-%23092E20.svg?style=plastic&logo=django&logoColor=white" alt="django"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white" alt="flask"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi" alt="fastapi"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB" alt="express"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Electron-191970?style=plastic&logo=Electron&logoColor=white" alt="electron"/> </a> <a href="https://www.joomla.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/joomla-%235091CD.svg?style=plastic&logo=joomla&logoColor=white" alt="joomla"/> </a> <a href="https://jquery.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=plastic&logo=jquery&logoColor=white" alt="jquery"/> </a> <a href="https://jwt.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/JWT-black?style=plastic&logo=JSON%20web%20tokens" alt="jwt"/> </a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=plastic&logo=npm&logoColor=white" alt="npm"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white" alt="nestjs"/> </a> <a href="https://www.opengl.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=plastic&logo=opengl" alt="opengl"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white" alt="opencv"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white" alt="nodejs"/> </a> <a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white" alt="redux"/> </a> <a href="https://socket.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Socket.io-black?style=plastic&logo=socket.io&badgeColor=010101" alt="socket.io"/> </a> <a href="https://streamlit.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white" alt="streamlit"/> </a> <a href="https://wordpress.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=plastic&logo=WordPress&logoColor=white" alt="wordpress"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white" alt="nginx"/> </a> <a href="https://gunicorn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white" alt="gunicorn"/> </a> <a href="https://httpd.apache.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white" alt="apache"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white" alt="mysql"/> </a> <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=plastic&logo=microsoft%20sql%20server&logoColor=white" alt="mssql"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white" alt="mongodb"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white" alt="sqlite"/> </a> <a href="https://supabase.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=plastic&logo=supabase&logoColor=white" alt="supabase"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white" alt="canva"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white" alt="figma"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Framer-black?style=plastic&logo=framer&logoColor=blue" alt="framer"/> </a> <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white" alt="tensorflow"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white" alt="pandas"/> </a> <a href="https://numpy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white" alt="numpy"/> </a> <a href="https://mlflow.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue" alt="mlflow"/> </a> <a href="https://matplotlib.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black" alt="matplotlib"/> </a> <a href="https://keras.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white" alt="keras"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white" alt="pytorch"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white" alt="scikit-learn"/> </a> <a href="https://www.scipy.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white" alt="scipy"/> </a> <a href="https://plotly.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white" alt="plotly"/> </a> <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white" alt="githubactions"/> </a> <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white" alt="github"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white" alt="git"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white" alt="arduino"/> </a> <a href="https://www.cisco.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/cisco-%23049fd9.svg?style=plastic&logo=cisco&logoColor=black" alt="cisco"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white" alt="docker"/> </a> <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white" alt="postman"/> </a> <a href="https://swagger.io/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/-Swagger-%23Clojure?style=plastic&logo=swagger&logoColor=white" alt="swagger"/> </a> <a href="https://www.nvidia.com/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white" alt="nvidia"/> </a> </p>
+<p>
+  <a href="https://linkedin.com/in/muhammad-usama-5996bb24b">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://youtube.com/@usamaking997">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="mailto:tahir12721@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MUHAMMADUSAMA64874&theme=dark&layout=compact" alt="MUHAMMADUSAMA64874" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MUHAMMADUSAMA64874&theme=dark&include_all_commits=true&count_private=true" alt="MUHAMMADUSAMA64874" /></p>
-
-<p><img align="center" src="https://streak-stats.demolab.com/?user=MUHAMMADUSAMA64874&theme=dark" alt="MUHAMMADUSAMA64874" /></p>
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MUHAMMADUSAMA64874&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MUHAMMADUSAMA64874&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 👨‍💻 About Me
+
+* 🎓 Computer Science student focused on practical, production-ready software.
+* 🔭 Building **scalable web applications, desktop software, and interactive experiences**.
+* ⚙️ Creating intelligent automation with **Python, n8n, Make.com, APIs, and data pipelines**.
+* 📊 Turning complex datasets into useful insights with **Pandas, NumPy, and visualization tools**.
+* 👁️ Exploring **Computer Vision, Machine Learning, and efficient system design**.
+* 🤝 Open to collaborating on **full-stack, automation, open-source, and data-driven projects**.
+* 💬 Ask me about **WordPress, PHP, C#, Python automation, n8n, Make.com, and Pandas**.
+* 📫 Reach me at **[tahir12721@gmail.com](mailto:tahir12721@gmail.com)**.
+
+## 🚀 What I Build
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">🌐 Full-Stack Systems</h3>
+      <p align="center">Responsive web applications, APIs, authentication, databases, dashboards, and deployment-ready solutions.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">⚙️ Automation Workflows</h3>
+      <p align="center">Business process automation, API integrations, scheduled workflows, data processing, and productivity tools.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">📊 Data & Computer Vision</h3>
+      <p align="center">Data analysis, visualization, machine-learning experiments, image processing, and actionable reporting.</p>
+    </td>
+  </tr>
+</table>
+
+## 🧰 Tech Stack
+
+### Languages & Core Web
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,php,cs,c,java,html,css&theme=dark&perline=8" alt="Programming languages" />
+  </a>
+</p>
+
+### Backend, APIs & Application Development
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,dotnet,electron,bootstrap,jquery,redux&theme=dark&perline=11" alt="Backend and application technologies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.IO" />
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white" alt="Joomla" />
+</p>
+
+### Data Science, AI & Computer Vision
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" alt="AI and computer vision technologies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" />
+  <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+</p>
+
+### Databases, Cloud & DevOps
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase,aws,gcp,azure,docker,nginx,vercel,netlify,git,github,githubactions&theme=dark&perline=8" alt="Database, cloud and DevOps technologies" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="Microsoft SQL Server" />
+  <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white" alt="Apache" />
+  <img src="https://img.shields.io/badge/Gunicorn-499848?style=for-the-badge&logo=gunicorn&logoColor=white" alt="Gunicorn" />
+  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+</p>
+
+### Automation, Development & Design Tools
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postman,figma,arduino&theme=dark&perline=3" alt="Development and design tools" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=make&logoColor=white" alt="Make.com" />
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black" alt="Swagger" />
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/Framer-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer" />
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMADUSAMA64874&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies" />
+</div>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MUHAMMADUSAMA64874&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Muhammad Usama's GitHub statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MUHAMMADUSAMA64874&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad Usama's most used languages" />
+</div>
+
+<div align="center">
+  <img width="70%" src="https://streak-stats.demolab.com?user=MUHAMMADUSAMA64874&theme=tokyonight&hide_border=true" alt="Muhammad Usama's contribution streak" />
+</div>
+
+<div align="center">
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUHAMMADUSAMA64874&theme=tokyonight" alt="GitHub profile contribution summary" />
+</div>
+
+## 📊 Contribution Activity
+
+<div align="center">
+  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
+    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADUSAMA64874&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Usama%27s%20Contribution%20Graph" alt="GitHub contribution activity graph" />
+  </a>
+</div>
+
+## 🐍 Contribution Snake
+
+<!-- Add the included .github/workflows/snake.yml file and run it once from the Actions tab. -->
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+  <p>
+    I'm interested in meaningful collaborations involving full-stack development, automation, data, and intelligent systems.
+  </p>
+  <a href="mailto:tahir12721@gmail.com">
+    <img src="https://img.shields.io/badge/Start%20a%20Conversation-Email%20Me-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Usama" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <sub>⚡ Turning code, automation, and data into useful real-world solutions.</sub>
+</div>
