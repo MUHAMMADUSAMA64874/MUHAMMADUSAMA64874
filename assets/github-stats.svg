@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="495" height="180" viewBox="0 0 495 180" role="img" aria-label="GitHub stats are being generated">
-  <rect width="495" height="180" rx="8" fill="#1a1b27"/>
-  <text x="28" y="52" fill="#70a5fd" font-family="Segoe UI,Arial,sans-serif" font-size="20" font-weight="700">GitHub Statistics</text>
-  <text x="28" y="94" fill="#bf91f3" font-family="Segoe UI,Arial,sans-serif" font-size="15">Generating your local stats card…</text>
-  <text x="28" y="126" fill="#38bdae" font-family="Segoe UI,Arial,sans-serif" font-size="13">Run “Update GitHub Stats Cards” in Actions.</text>
-</svg>
