@@ -7,25 +7,15 @@
 </a>
 
 <p>
-  <a href="https://github.com/MUHAMMADUSAMA64874?tab=followers">
-    <img src="https://img.shields.io/github/followers/MUHAMMADUSAMA64874?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
-  </a>
+  <a href="https://github.com/MUHAMMADUSAMA64874?tab=followers"><img src="https://img.shields.io/github/followers/MUHAMMADUSAMA64874?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=MUHAMMADUSAMA64874&label=Profile%20Views&color=00A8E8&style=for-the-badge" alt="Profile views" />
-  <a href="mailto:tahir12721@gmail.com">
-    <img src="https://img.shields.io/badge/Open%20to-Collaboration-00A8E8?style=for-the-badge" alt="Open to collaboration" />
-  </a>
+  <a href="mailto:tahir12721@gmail.com"><img src="https://img.shields.io/badge/Open%20to-Collaboration-00A8E8?style=for-the-badge" alt="Open to collaboration" /></a>
 </p>
 
 <p>
-  <a href="https://linkedin.com/in/muhammad-usama-5996bb24b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@usamaking997">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:tahir12721@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
+  <a href="https://linkedin.com/in/muhammad-usama-5996bb24b"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://youtube.com/@usamaking997"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="mailto:tahir12721@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 </div>
@@ -34,30 +24,33 @@
 
 ## 👨‍💻 About Me
 
-* 🎓 Computer Science student focused on practical, production-ready software.
-* 🔭 Building **scalable web applications, desktop software, and interactive experiences**.
-* ⚙️ Creating intelligent automation with **Python, n8n, Make.com, APIs, and data pipelines**.
-* 📊 Turning complex datasets into useful insights with **Pandas, NumPy, and visualization tools**.
-* 👁️ Exploring **Computer Vision, Machine Learning, and efficient system design**.
-* 🤝 Open to collaborating on **full-stack, automation, open-source, and data-driven projects**.
-* 💬 Ask me about **WordPress, PHP, C#, Python automation, n8n, Make.com, and Pandas**.
-* 📫 Reach me at **[tahir12721@gmail.com](mailto:tahir12721@gmail.com)**.
+- 🎓 Computer Science student focused on practical, production-ready software.
+- 🔭 Building **scalable web applications, desktop software, and interactive experiences**.
+- ⚙️ Creating intelligent automation with **Python, n8n, Make.com, APIs, and data pipelines**.
+- 📊 Turning complex datasets into useful insights with **Pandas, NumPy, and visualization tools**.
+- 👁️ Exploring **Computer Vision, Machine Learning, and efficient system design**.
+- 🤝 Open to collaborating on **full-stack, automation, open-source, and data-driven projects**.
+- 💬 Ask me about **WordPress, PHP, C#, Python automation, n8n, Make.com, and Pandas**.
+- 📫 Reach me at **[tahir12721@gmail.com](mailto:tahir12721@gmail.com)**.
 
 ## 🚀 What I Build
 
 <table>
   <tr>
-    <td width="33%" valign="top">
-      <h3 align="center">🌐 Full-Stack Systems</h3>
-      <p align="center">Responsive web applications, APIs, authentication, databases, dashboards, and deployment-ready solutions.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">⚙️ Automation Workflows</h3>
-      <p align="center">Business process automation, API integrations, scheduled workflows, data processing, and productivity tools.</p>
-    </td>
-    <td width="33%" valign="top">
-      <h3 align="center">📊 Data & Computer Vision</h3>
-      <p align="center">Data analysis, visualization, machine-learning experiments, image processing, and actionable reporting.</p>
+    <td width="33%" valign="top" align="center"><b>🌐 Full-Stack Systems</b><br><sub>Web applications, APIs, authentication, databases, dashboards, and deployment-ready solutions.</sub></td>
+    <td width="33%" valign="top" align="center"><b>⚙️ Automation Workflows</b><br><sub>API integrations, scheduled workflows, business automation, and data-processing pipelines.</sub></td>
+    <td width="33%" valign="top" align="center"><b>📊 Data & Computer Vision</b><br><sub>Data analysis, visualization, machine learning, image processing, and reporting.</sub></td>
+  </tr>
+</table>
+
+## ⭐ Featured Project
+
+<table>
+  <tr>
+    <td valign="top">
+      <h3><a href="https://github.com/MUHAMMADUSAMA64874/n8n-E-commerce-Order-Processor">🛒 E-commerce Order Processor</a></h3>
+      <p>An n8n automation workflow that validates incoming orders, checks live inventory, generates fulfilment decisions, sends team notifications, and returns structured webhook responses.</p>
+      <p><code>n8n</code> <code>Webhooks</code> <code>Google Sheets</code> <code>Automation</code> <code>Email Integration</code></p>
     </td>
   </tr>
 </table>
@@ -67,17 +60,13 @@
 ### Languages & Core Web
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,php,cs,c,java,html,css&theme=dark&perline=8" alt="Programming languages" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=py,js,php,cs,c,java,html,css&theme=dark&perline=8" alt="Programming languages" /></a>
 </p>
 
-### Backend, APIs & Application Development
+### Backend, APIs & Applications
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,dotnet,electron,bootstrap,jquery,redux&theme=dark&perline=11" alt="Backend and application technologies" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,dotnet,electron,bootstrap,jquery,redux&theme=dark&perline=11" alt="Backend technologies" /></a>
 </p>
 
 <p align="center">
@@ -90,9 +79,7 @@
 ### Data Science, AI & Computer Vision
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" alt="AI and computer vision technologies" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" alt="AI technologies" /></a>
 </p>
 
 <p align="center">
@@ -109,9 +96,7 @@
 ### Databases, Cloud & DevOps
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase,aws,gcp,azure,docker,nginx,vercel,netlify,git,github,githubactions&theme=dark&perline=8" alt="Database, cloud and DevOps technologies" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase,aws,gcp,azure,docker,nginx,vercel,netlify,git,github,githubactions&theme=dark&perline=8" alt="Database cloud and DevOps technologies" /></a>
 </p>
 
 <p align="center">
@@ -121,12 +106,10 @@
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 </p>
 
-### Automation, Development & Design Tools
+### Automation, Development & Design
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postman,figma,arduino&theme=dark&perline=3" alt="Development and design tools" />
-  </a>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=postman,figma,arduino&theme=dark&perline=3" alt="Development tools" /></a>
 </p>
 
 <p align="center">
@@ -141,42 +124,43 @@
 
 ## 🏆 GitHub Achievements
 
+<table>
+  <tr>
+    <td width="25%" align="center"><b>🤝 Pair Extraordinaire</b><br><sub>Successful co-authored work</sub></td>
+    <td width="25%" align="center"><b>🦈 Pull Shark</b><br><sub>Pull requests merged</sub></td>
+    <td width="25%" align="center"><b>⚡ Quickdraw</b><br><sub>Fast issue or pull-request response</sub></td>
+    <td width="25%" align="center"><b>🚀 YOLO</b><br><sub>Repository collaboration achievement</sub></td>
+  </tr>
+</table>
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MUHAMMADUSAMA64874&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&margin-h=8&row=1&column=7" alt="GitHub trophies" />
+  <a href="https://github.com/MUHAMMADUSAMA64874?tab=achievements"><b>View all achievements on GitHub →</b></a>
 </div>
 
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MUHAMMADUSAMA64874&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Muhammad Usama's GitHub statistics" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MUHAMMADUSAMA64874&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad Usama's most used languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=MUHAMMADUSAMA64874&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" alt="Muhammad Usama's GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADUSAMA64874&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" alt="Muhammad Usama's most used languages" />
 </div>
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=MUHAMMADUSAMA64874&theme=tokyonight&hide_border=true" alt="Muhammad Usama's contribution streak" />
-</div>
-
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUHAMMADUSAMA64874&theme=tokyonight" alt="GitHub profile contribution summary" />
+  <img height="180" src="https://streak-stats.demolab.com?user=MUHAMMADUSAMA64874&theme=tokyonight&hide_border=true" alt="Muhammad Usama's contribution streak" />
 </div>
 
 ## 📊 Contribution Activity
 
 <div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADUSAMA64874&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Usama%27s%20Contribution%20Graph" alt="GitHub contribution activity graph" />
-  </a>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADUSAMA64874&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Usama%27s%20Contribution%20Graph" alt="GitHub contribution activity graph" />
 </div>
 
 ## 🐍 Contribution Snake
 
-<!-- Add the included .github/workflows/snake.yml file and run it once from the Actions tab. -->
-
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
+    <img width="100%" alt="GitHub contribution snake animation" src="./assets/github-snake.svg" />
   </picture>
 </div>
 
@@ -185,16 +169,7 @@
 ## 🤝 Let's Connect
 
 <div align="center">
-  <p>
-    I'm interested in meaningful collaborations involving full-stack development, automation, data, and intelligent systems.
-  </p>
-  <a href="mailto:tahir12721@gmail.com">
-    <img src="https://img.shields.io/badge/Start%20a%20Conversation-Email%20Me-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Usama" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <sub>⚡ Turning code, automation, and data into useful real-world solutions.</sub>
+  <p>I'm interested in meaningful collaborations involving full-stack development, automation, data, and intelligent systems.</p>
+  <a href="mailto:tahir12721@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20Conversation-Email%20Me-00A8E8?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Usama" /></a>
+  <p><sub>⚡ Turning code, automation, and data into useful real-world solutions.</sub></p>
 </div>
