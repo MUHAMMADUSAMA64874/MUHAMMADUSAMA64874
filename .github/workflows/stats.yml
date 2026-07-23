@@ -17,13 +17,23 @@ jobs:
       - name: Checkout profile repository
         uses: actions/checkout@v4
 
+      - name: Check profile stats token
+        shell: bash
+        env:
+          PROFILE_STATS_TOKEN: ${{ secrets.PROFILE_STATS_TOKEN }}
+        run: |
+          if [ -z "$PROFILE_STATS_TOKEN" ]; then
+            echo "Repository secret PROFILE_STATS_TOKEN is missing."
+            exit 1
+          fi
+
       - name: Generate GitHub stats card
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: username=${{ github.repository_owner }}&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github
           path: assets/github-stats.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Generate top languages card
         uses: stats-organization/github-readme-stats-action@v2
@@ -31,15 +41,15 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&theme=tokyonight&hide_border=true&langs_count=8
           path: assets/top-languages.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.PROFILE_STATS_TOKEN }}
 
       - name: Validate generated cards
         shell: bash
         run: |
           test -s assets/github-stats.svg
           test -s assets/top-languages.svg
-          if grep -Eqi "Something went wrong|Resource not accessible by integration" assets/github-stats.svg assets/top-languages.svg; then
-            echo "A stats card contains a GitHub API error."
+          if grep -Eqi "Something went wrong|Resource not accessible by integration|Bad credentials" assets/github-stats.svg assets/top-languages.svg; then
+            echo "A stats card contains a GitHub API authentication error."
             exit 1
           fi
 
@@ -53,11 +63,11 @@ jobs:
           from pathlib import Path
 
           path = Path("README.md")
-          text = path.read_text()
+          text = path.read_text(encoding="utf-8")
           key = os.environ["CACHE_KEY"]
           text = re.sub(r"(assets/github-stats\.svg)\?v=[^\"']+", rf"\1?v={key}", text)
           text = re.sub(r"(assets/top-languages\.svg)\?v=[^\"']+", rf"\1?v={key}", text)
-          path.write_text(text)
+          path.write_text(text, encoding="utf-8")
           PY
 
       - name: Commit refreshed stats cards
