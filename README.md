@@ -140,8 +140,8 @@
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img height="180" src="./assets/github-stats.svg" alt="Muhammad Usama's GitHub statistics" />
-  <img height="180" src="./assets/top-languages.svg" alt="Muhammad Usama's most used languages" />
+  <img height="180" src="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/main/assets/github-stats.svg?v=1" alt="Muhammad Usama's GitHub statistics" />
+  <img height="180" src="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/main/assets/top-languages.svg?v=1" alt="Muhammad Usama's most used languages" />
 </div>
 
 <div align="center">
@@ -158,9 +158,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-    <img width="100%" alt="GitHub contribution snake animation" src="./assets/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/main/assets/github-snake-dark.svg?v=1" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/main/assets/github-snake.svg?v=1" />
+    <img width="100%" alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/MUHAMMADUSAMA64874/MUHAMMADUSAMA64874/main/assets/github-snake.svg?v=1" />
   </picture>
 </div>
 

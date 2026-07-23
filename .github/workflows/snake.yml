@@ -4,11 +4,6 @@ on:
   schedule:
     - cron: "15 0 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
-    paths:
-      - ".github/workflows/snake.yml"
 
 permissions:
   contents: write
@@ -32,10 +27,39 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Validate generated snake files
+        shell: bash
+        run: |
+          test -s assets/github-snake.svg
+          test -s assets/github-snake-dark.svg
+          test "$(wc -c < assets/github-snake.svg)" -gt 5000
+          test "$(wc -c < assets/github-snake-dark.svg)" -gt 5000
+          if grep -q "Contribution Snake is ready" assets/github-snake.svg assets/github-snake-dark.svg; then
+            echo "The placeholder was not replaced."
+            exit 1
+          fi
+
+      - name: Refresh README image cache keys
+        env:
+          CACHE_KEY: ${{ github.run_id }}
+        run: |
+          python - <<'PY'
+          import os
+          import re
+          from pathlib import Path
+
+          path = Path("README.md")
+          text = path.read_text()
+          key = os.environ["CACHE_KEY"]
+          text = re.sub(r"(assets/github-snake\.svg)\?v=[^\"']+", rf"\1?v={key}", text)
+          text = re.sub(r"(assets/github-snake-dark\.svg)\?v=[^\"']+", rf"\1?v={key}", text)
+          path.write_text(text)
+          PY
+
       - name: Commit refreshed snake assets
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add assets/github-snake.svg assets/github-snake-dark.svg
+          git add README.md assets/github-snake.svg assets/github-snake-dark.svg
           git diff --cached --quiet || git commit -m "chore: refresh contribution snake [skip ci]"
           git push
