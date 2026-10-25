@@ -1,180 +1,99 @@
 <div align="center">
 
-Hi 👋, I'm Muhammad Usama
+# MUHAMMAD USAMA
+### Senior Full-Stack WordPress Developer & AI Automation Engineer
+Karachi, Pakistan • Open to Global Remote Opportunities
 
-Computer Science Student · Full-Stack Developer · Automation & Data Specialist
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=820&lines=Building+scalable+web+applications;Creating+intelligent+automation+workflows;Turning+data+into+useful+insights;Learning%2C+building%2C+and+improving+every+day" alt="Typing introduction" />
-
-<p>
-  <a href="https://github.com/MUHAMMADUSAMA64874?tab=followers">
-    <img src="https://img.shields.io/github/followers/MUHAMMADUSAMA64874?label=Followers&style=for-the-badge&logo=github&color=181717" alt="GitHub followers" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=MUHAMMADUSAMA64874&label=Profile%20Views&color=0969DA&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/badge/Open%20to-Collaboration-238636?style=for-the-badge" alt="Open to collaboration" />
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/muhammad-usama-5996bb24b">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://youtube.com/@usamaking997">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="mailto:tahir12721@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-usama-5996bb24b/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-0284C7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://muhammadusama64874.github.io/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tahir12721@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923207101485)
 
 </div>
 
-👨‍💻 About Me
+---
 
-🎓 Computer Science student focused on practical, production-ready software.
+### Professional Overview
 
-🌐 Building scalable web applications, APIs, dashboards, and desktop solutions.
+Full-Stack & Automation Engineer with **5+ years of hands-on experience** architecting high-performance web applications, mission-critical WooCommerce stores, and complex enterprise automation pipelines. Specializing in autonomous **n8n workflows, custom WordPress plugins/themes from scratch, LLM agent orchestration, and computer vision systems**.
 
-⚙️ Creating automation workflows with Python, n8n, Make.com, and APIs.
+---
 
-📊 Working with data analysis, visualization, machine learning, and computer vision.
-
-🤝 Open to full-stack, automation, data, and open-source collaborations.
-
-📫 Reach me at tahir12721@gmail.com.
-
-🚀 What I Work On
+### Core Technical Competencies
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🌐 Full-Stack Development</h3>
-      <p align="center">Responsive applications, REST APIs, authentication, databases, dashboards, and deployment.</p>
+      <h4>Full-Stack & CMS</h4>
+      <ul>
+        <li><strong>Languages:</strong> PHP 8.x, JavaScript (ES6+), TypeScript, Python, SQL</li>
+        <li><strong>WordPress:</strong> Headless WP, Custom Plugins, Hooks/Filters API, Theme Development (zero page builders)</li>
+        <li><strong>E-Commerce:</strong> WooCommerce REST API, Custom Payment Gateways, Shopify Liquid, Inventory Sync</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">⚙️ Automation</h3>
-      <p align="center">Workflow automation, API integrations, scheduled processes, data pipelines, and productivity tools.</p>
+      <h4>AI & Workflow Automation</h4>
+      <ul>
+        <li><strong>Platforms:</strong> n8n (Self-Hosted/Cloud), Make.com, LangChain</li>
+        <li><strong>LLMs:</strong> OpenAI GPT-4, Anthropic Claude, Google Gemini, Ollama (Llama 3.2, Qwen, Mistral)</li>
+        <li><strong>Pipelines:</strong> RAG Systems, Vector Embeddings, Autonomous Customer Triage, SERP Rank Tracking</li>
+      </ul>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">📊 Data & AI</h3>
-      <p align="center">Data analysis, visualization, machine-learning experiments, and computer-vision solutions.</p>
+      <h4>Backend & Computer Vision</h4>
+      <ul>
+        <li><strong>Frameworks:</strong> Node.js, Express, React, Electron, Android CameraX</li>
+        <li><strong>Databases:</strong> MySQL, PostgreSQL, MSSQL, MongoDB, Firebase Firestore, SQLite</li>
+        <li><strong>Computer Vision:</strong> Google MediaPipe (21 3D Landmarks), TensorFlow Lite, OpenCV</li>
+      </ul>
     </td>
   </tr>
 </table>
 
-🧰 Tech Stack
+---
 
-Languages
+### Featured Flagship Architectures
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,js,php,cs,java,c,html,css&theme=dark&perline=8" alt="Programming languages" />
-</p>
+#### 1. Real-Time Android ASL Gesture Interpreter
+> Native Android application translating American Sign Language in real-time. Built with CameraX, MediaPipe 21 landmark detection, TensorFlow Lite neural inference, AR skeleton overlays, and multi-language Text-to-Speech output.
 
-Backend & Application Development
+#### 2. MenuCanvas Suite (Restaurant POS & WooCommerce Sync)
+> Enterprise restaurant ordering and table management desktop application developed with Electron and React. Features kitchen thermal printer dispatch, live order statuses, and bidirectional synchronization with WooCommerce online ordering.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,flask,fastapi,dotnet,electron,bootstrap,redux&theme=dark&perline=10" alt="Backend and application technologies" />
-</p>
+#### 3. Enterprise n8n Workflow Automation Hub (81+ Production Flows)
+> Designed and deployed 81+ production-grade n8n automations covering:
+- **Daily SERP Rank Tracker:** Automated DataForSEO API querying with conditional rank volatility alerting via Slack.
+- **Content Auto-Publisher:** Autonomous article scraping, structuring, AI SEO optimization, and scheduled WordPress publication.
+- **WhatsApp Support & CRM Sync:** Real-time conversational intake, sentiment analysis, and Google Sheets/HubSpot synchronization.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
-  <img src="https://img.shields.io/badge/Joomla-5091CD?style=flat-square&logo=joomla&logoColor=white" alt="Joomla" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" alt="JWT" />
-  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white" alt="Socket.IO" />
-</p>
+#### 4. QRlytics Dynamic QR Code & Campaign Analytics SaaS
+> Full-stack dynamic QR generation and scan attribution analytics platform with real-time geolocation tracking, device breakdowns, and custom redirect rules.
 
-Data Science, AI & Computer Vision
+#### 5. Custom 160KB Course & Booking Engine (Chef Academy)
+> Enterprise WordPress custom booking plugin built from scratch handling multi-tier chef course registrations, live calendar availability, automated invoicing, and Stripe/PayPal split disbursements.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,sklearn&theme=dark&perline=4" alt="AI and computer vision technologies" />
-</p>
+---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white" alt="SciPy" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" alt="Plotly" />
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white" alt="Streamlit" />
-</p>
+### Verified Credentials & Certifications
 
-Databases, Cloud & DevOps
+- **HTML, CSS, & Bootstrap - Certification Course for Beginners** • Udemy (`UC-46819960-3af4-4e1d-b78e-5178374527b7`)
+- **Git, GitHub & Markdown Crash Course** • Udemy (`UC-0021e75c-e501-4c60-9a97-26c693efa7dc`)
+- **React-js AI Chatbot built with ChatGPT, Gemini and DeepSeek** • Udemy (`UC-91a46a00-4bee-48fb-b4c1-46772dc331cc`)
+- **HTML, CSS, and Javascript for Web Developers** • Johns Hopkins University (`5L3TTS7YY14A`)
+- **Building Web Applications in PHP** • University of Michigan (`4HVBIOSDLLRH`)
+- **Introduction to Web Development** • University of California, Davis (`Q5PZN7EYLJRX`)
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,supabase,firebase,aws,gcp,azure,docker,nginx,vercel,netlify,git,github,githubactions&theme=dark&perline=8" alt="Database, cloud and DevOps technologies" />
-</p>
+---
 
-Automation & Development Tools
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=postman,figma,arduino&theme=dark&perline=3" alt="Development tools" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-  <img src="https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=make&logoColor=white" alt="Make.com" />
-  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black" alt="Swagger" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva" />
-</p>
-
-📈 GitHub Analytics
-
-<!-- Simple setup: these cards load directly and do not require a stats workflow or personal access token. -->
+### GitHub Activity & Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=MUHAMMADUSAMA64874&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="Muhammad Usama's GitHub statistics" />
-  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MUHAMMADUSAMA64874&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Muhammad Usama's most used languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MUHAMMADUSAMA64874&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Usama's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADUSAMA64874&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </div>
 
-<br />
+---
 
 <div align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=MUHAMMADUSAMA64874&theme=tokyonight&hide_border=true" alt="Muhammad Usama's contribution streak" />
-</div>
-
-<br />
-
-<div align="center">
-  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUHAMMADUSAMA64874&theme=tokyonight" alt="GitHub contribution summary" />
-</div>
-
-📊 Contribution Activity
-
-<div align="center">
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MUHAMMADUSAMA64874&theme=tokyo-night&hide_border=true&area=true&custom_title=Muhammad%20Usama%27s%20Contribution%20Graph" alt="GitHub contribution activity graph" />
-</div>
-
-🏆 GitHub Achievements
-
-<div align="center">
-  <a href="https://github.com/MUHAMMADUSAMA64874?tab=achievements">
-    <img src="https://img.shields.io/badge/View%20My%20GitHub%20Achievements-181717?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements" />
-  </a>
-</div>
-
-🐍 Contribution Snake
-
-<!-- Keep only the existing snake workflow. The stats workflow and PAT are not required. -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg" />
-    <img width="95%" alt="GitHub contribution snake animation" src="./assets/github-snake.svg" />
-  </picture>
-</div>
-
-🤝 Let's Connect
-
-<div align="center">
-
-I'm interested in meaningful collaborations involving full-stack development, automation, data, and intelligent systems.
-
-<a href="mailto:tahir12721@gmail.com">
-  <img src="https://img.shields.io/badge/Start%20a%20Conversation-Email%20Me-0969DA?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Muhammad Usama" />
-</a>
-
-<br /><br />
-
-<sub>⚡ Turning code, automation, and data into useful real-world solutions.</sub>
-
+  <sub>Engineered by Muhammad Usama • Verified & Protected Architecture</sub>
 </div>
