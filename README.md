@@ -17,7 +17,7 @@
 
 I build **WordPress, WooCommerce and Shopify sites that ship fast and rank well**, and **automations that replace manual work** — n8n, Make.com, Python and local / cloud LLMs.
 
-- 🌍 **37 live client sites** for UK, US, EU and Pakistani businesses
+- 🌍 **35 live client sites** for UK, US, EU and Pakistani businesses
 - 🔁 **Joomla → WordPress migration** for Chef Academy of London: 6 languages, 3,474 SEO redirects, 72 Stripe flows audited
 - 🤖 **81+ production automations** — SEO reporting, content publishing, SERP tracking, WhatsApp helpdesk, invoice extraction
 - 🧩 **Custom plugins** — course booking & waitlists, employee directory, certificate generator
@@ -42,7 +42,7 @@ I build **WordPress, WooCommerce and Shopify sites that ship fast and rank well*
 | [**Chef Academy of London**](https://chefacademyoflondon.com/en/) | Enterprise Joomla → WordPress migration, 6 languages | WordPress · Polylang · Stripe |
 | [**n8n Workflow Hub**](https://muhammadusama64874.github.io/Portfolio/n8n-hub.html) | Library of production automation pipelines | n8n · LLMs · APIs |
 | [**Seaholm Automatic**](https://seaholmautomatic.com/) | Luxury watch storefront | Shopify · Liquid |
-| [**Commander Safeguard Museum**](https://muhammadusama64874.github.io/Portfolio/commander-safeguard.html) | Restored 2005–2016 Flash-era site with playable games | Node.js · Ruffle |
+| [**Commander Safeguard Museum**](https://muhammadusama64874.github.io/Portfolio/commander-safeguard/) | Restored 2005–2016 Flash-era site with playable games | Node.js · Ruffle |
 | **ASL Gesture Interpreter** | Real-time sign-language recognition on Android | Java · MediaPipe · TFLite |
 | [**All 93 projects →**](https://muhammadusama64874.github.io/Portfolio/#archive) | Every client site, plugin and experiment | |
 
