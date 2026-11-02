@@ -22,7 +22,7 @@ I build **WordPress, WooCommerce and Shopify sites that ship fast and rank well*
 - 🤖 **81+ production automations** — SEO reporting, content publishing, SERP tracking, WhatsApp helpdesk, invoice extraction
 - 🧩 **Custom plugins** — course booking & waitlists, employee directory, certificate generator
 - ⚡ Page speed work that cut load times by **40–60%**
-- 🎓 BS Computer Science, KIET (2021–2026)
+- 🎓 BS Computer Science, KIET (2022–2026)
 
 ### 🛠️ Tech stack
 
