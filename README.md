@@ -44,13 +44,19 @@ I build **WordPress, WooCommerce and Shopify sites that ship fast and rank well*
 | [**Seaholm Automatic**](https://seaholmautomatic.com/) | Luxury watch storefront | Shopify · Liquid |
 | [**Commander Safeguard Museum**](https://muhammadusama64874.github.io/Portfolio/commander-safeguard/) | Restored 2005–2016 Flash-era site with playable games | Node.js · Ruffle |
 | **ASL Gesture Interpreter** | Real-time sign-language recognition on Android | Java · MediaPipe · TFLite |
-| [**All 93 projects →**](https://muhammadusama64874.github.io/Portfolio/#archive) | Every client site, plugin and experiment | |
+| [**All 90 projects →**](https://muhammadusama64874.github.io/Portfolio/#archive) | Every client site, plugin and experiment | |
 
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MUHAMMADUSAMA64874&show_icons=true&hide_border=true&bg_color=0d1117&title_color=c8ff2e&icon_color=7b61ff&text_color=c9d1d9&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MUHAMMADUSAMA64874&layout=compact&hide_border=true&bg_color=0d1117&title_color=c8ff2e&text_color=c9d1d9" alt="Top languages" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MUHAMMADUSAMA64874&theme=github_dark" alt="GitHub profile details and contribution graph" />
+</p>
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MUHAMMADUSAMA64874&theme=github_dark" alt="GitHub stats" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MUHAMMADUSAMA64874&theme=github_dark" alt="Repositories per language" />
+</p>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=MUHAMMADUSAMA64874&theme=github-dark-blue&hide_border=true" alt="Contribution streak" />
 </p>
 
 ### 🐍 Contribution snake
