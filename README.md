@@ -62,9 +62,9 @@ I build **WordPress, WooCommerce and Shopify sites that ship fast and rank well*
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg?v=43816114665" />
-  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg?v=43816114665" />
-  <img alt="Snake eating my GitHub contributions" src="assets/github-snake.svg?v=43816114665" />
+  <source media="(prefers-color-scheme: dark)" srcset="assets/github-snake-dark.svg?v=44041782698" />
+  <source media="(prefers-color-scheme: light)" srcset="assets/github-snake.svg?v=44041782698" />
+  <img alt="Snake eating my GitHub contributions" src="assets/github-snake.svg?v=44041782698" />
 </picture>
 
 ---
